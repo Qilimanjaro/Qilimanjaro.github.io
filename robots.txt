@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qilimanjaro.github.io/sitemap.xml
